@@ -21,7 +21,7 @@ This repository contains code for compressing images using the K-Means clusterin
    pip install -r requirements.txt
 2. Run the Python script to compress your images:
    ## Example
-![Original and Compressed Images](example.png)
+![Original and Compressed Images](demo.png)
 
 
 
